@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm @josiahwsmith10</h1>
+<h1 align="center">Hi 👋, I'm Josiah</h1>
 <h3 align="center">A passionate signal processing and deep learning researcher from Texas, USA.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=josiahwsmith10&label=Profile%20views&color=0e75b6&style=flat" alt="josiahwsmith10" /> </p>
