@@ -44,7 +44,7 @@
         - TI mmWave Studio MATLAB GUI ([code](https://github.com/josiahwsmith10/mmWave-Studio-MATLAB-GUI-jws))
 - Embedded Synchronization Software for SAR Scanner Controllers
     - (V1) TI Radar HW Trigger using ESP32 ([code](https://github.com/josiahwsmith10/single-TI-radar-HW-trigger-esp32))
-    - *(V2) Dual Radar Synchronizer* ([dual-radar-synchronizer](https://github.com/josiahwsmith10/dual-radar-synchronizer))
+    - *(V2) Dual Radar Synchronizer* ([code](https://github.com/josiahwsmith10/dual-radar-synchronizer))
 - Documentation and Introduction to Radar and SAR Principles
     - Introduction to Near-Field SAR in MATLAB ([code](https://github.com/josiahwsmith10/SAR-Intro))
     - *Introduction to MIMO-FMCW Radar* ([doc](https://github.com/josiahwsmith10/Introduction-to-MIMO-FMCW-Radar))
