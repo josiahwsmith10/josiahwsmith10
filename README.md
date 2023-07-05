@@ -15,8 +15,8 @@
 
 ### Organization of Code (Notable repositories are highlighted in bold):
 - Simulating Radar and SAR Data
- - V1 [sar-simulation-jws](https://github.com/josiahwsmith10/sar-simulation-jws)
- - V2 [FMCW-MIMO-SAR-Simulation-and-Image-Reconstruction-Toolbox](https://github.com/josiahwsmith10/FMCW-MIMO-SAR-Simulation-and-Image-Reconstruction-Toolbox)
+    - V1 [sar-simulation-jws](https://github.com/josiahwsmith10/sar-simulation-jws)
+    - V2 [FMCW-MIMO-SAR-Simulation-and-Image-Reconstruction-Toolbox](https://github.com/josiahwsmith10/FMCW-MIMO-SAR-Simulation-and-Image-Reconstruction-Toolbox)
  - **V3 [THz-and-Sub-THz-Imaging-Toolbox](https://github.com/josiahwsmith10/THz-and-Sub-THz-Imaging-Toolbox)**
 - Data-Driven Radar Image Enhancement (Computer Vision for Radar)
  - V1 [sar-cnn-enhancement](https://github.com/josiahwsmith10/sar-cnn-enhancement)
