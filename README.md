@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=josiahwsmith10&label=Profile%20views&color=0e75b6&style=flat" alt="josiahwsmith10" /> </p>
 
-*PSA:* I no longer have access to my university email address (josiah.smith@utdallas.edu or jws160130@utdallas.edu), so please contact me at [josiah.radar@gmail.com](mailto:josiah.radar@gmail.com)
+*PSA:* I no longer have access to my university email address (josiah.smith@utdallas.edu or jws160130@utdallas.edu), so please contact me at josiah.radar@gmail.com.
 
 - 🔭 I’m currently working on several research publications in deep learning, computer vision, radar signal processing, and imaging.
 
