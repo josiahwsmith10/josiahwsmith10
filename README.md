@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on several research publications in deep learning, computer vision, radar signal processing, and imaging.
 
-- 📫 How to reach me **josiah.smith@utdallas.edu**
+- 📫 How to reach me **josiah.radar@gmail.com**
 
 - 📄 Know about my experiences [www.linkedin.com/in/josiahwsmith](www.linkedin.com/in/josiahwsmith)
 
