@@ -29,7 +29,7 @@
 
 ### Organization of Code (Notable repositories are highlighted in *italics*):
 - Complex-Valued Neural Networks
-    - complextorch ([code](https://github.com/josiahwsmith10/complextorch), [PyPI](https://pypi.org/project/complextorch/))
+    - *complextorch* ([code](https://github.com/josiahwsmith10/complextorch), [PyPI](https://pypi.org/project/complextorch/))
 - Simulating Radar and SAR Data
     - (V1) SAR Simulation ([code](https://github.com/josiahwsmith10/sar-simulation-jws))
     - (V2) FMCW MIMO-SAR Simulation and Image Reconstruction Toolbox ([code](https://github.com/josiahwsmith10/FMCW-MIMO-SAR-Simulation-and-Image-Reconstruction-Toolbox))
