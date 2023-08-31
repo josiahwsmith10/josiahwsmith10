@@ -28,6 +28,8 @@
 - Near-Field MIMO-ISAR Millimeter-Wave Imaging ([arXiv](https://arxiv.org/abs/2305.02030), [DOI](https://doi.org/10.1109/RadarConf2043947.2020.9266412))
 
 ### Organization of Code (Notable repositories are highlighted in *italics*):
+- Complex-Valued Neural Networks
+    - complextorch ([code](https://github.com/josiahwsmith10/complextorch), [PyPI](https://pypi.org/project/complextorch/))
 - Simulating Radar and SAR Data
     - (V1) SAR Simulation ([code](https://github.com/josiahwsmith10/sar-simulation-jws))
     - (V2) FMCW MIMO-SAR Simulation and Image Reconstruction Toolbox ([code](https://github.com/josiahwsmith10/FMCW-MIMO-SAR-Simulation-and-Image-Reconstruction-Toolbox))
