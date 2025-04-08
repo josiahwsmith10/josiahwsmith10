@@ -19,11 +19,13 @@
 - Novel Hybrid-Learning Algorithms for Improved Millimeter-Wave Imaging Systems ([arXiv](https://arxiv.org/abs/2306.15341))
 
 ### Papers
-- Deep Learning-Based Multiband Signal Fusion for 3-D SAR Super-Resolution ([arXiv](https://arxiv.org/abs/2305.02017), [DOI](https://doi.org/10.1109/TAES.2023.3270111))
+- Frequency Estimation Using Complex-Valued Shifted Window Transformer ([arXiv](https://arxiv.org/abs/2309.09352), [DOI](https://doi.org/10.1109/LGRS.2024.3411554), [code](https://github.com/josiahwsmith10/spectral-super-resolution-swin))
+- Emerging Approaches for THz Array Imaging: A Tutorial Review and Software Tool (Preprint) ([arXiv](https://arxiv.org/abs/2309.08844), [code](https://github.com/josiahwsmith10/THz-and-Sub-THz-Imaging-Toolbox))
+- Deep Learning-Based Multiband Signal Fusion for 3-D SAR Super-Resolution ([arXiv](https://arxiv.org/abs/2305.02017), [DOI](https://doi.org/10.1109/TAES.2023.3270111), [model code](https://github.com/josiahwsmith10/multiband-fusion-all), [scanner code](https://github.com/josiahwsmith10/dual-radar-synchronizer), [GUI code](https://github.com/josiahwsmith10/dual-radar-gui))
 - Efficient CNN-based Super Resolution Algorithms for mmWave Mobile Radar Imaging ([arXiv](https://arxiv.org/abs/2305.02092), [DOI](https://doi.org/10.1109/ICIP46576.2022.9897190))
-- A Vision Transformer Approach for Efficient Near-Field Irregular SAR Super-Resolution ([arXiv](https://arxiv.org/abs/2305.02074), [DOI](https://doi.org/10.1109/WMCS55582.2022.9866326))
-- Efficient 3-D Near-Field MIMO-SAR Imaging for Irregular Scanning Geometries ([arXiv](https://arxiv.org/abs/2305.02064), [DOI](https://doi.org/10.1109/ACCESS.2022.3145370))
-- An FCNN-Based Super-Resolution mmWave Radar Framework for Contactless Musical Instrument Interface ([arXiv](https://arxiv.org/abs/2305.01995), [DOI](https://doi.org/10.1109/TMM.2021.3079695))
+- A Vision Transformer Approach for Efficient Near-Field Irregular SAR Super-Resolution ([arXiv](https://arxiv.org/abs/2305.02074), [DOI](https://doi.org/10.1109/WMCS55582.2022.9866326), [code](https://github.com/josiahwsmith10/hybrid-freehand-imaging-ViT))
+- Efficient 3-D Near-Field MIMO-SAR Imaging for Irregular Scanning Geometries ([arXiv](https://arxiv.org/abs/2305.02064), [DOI](https://doi.org/10.1109/ACCESS.2022.3145370), [code](https://github.com/josiahwsmith10/Efficient-3-D-Near-Field-MIMO-SAR-Imaging-for-Irregular-Scanning-Geometries))
+- An FCNN-Based Super-Resolution mmWave Radar Framework for Contactless Musical Instrument Interface ([arXiv](https://arxiv.org/abs/2305.01995), [DOI](https://doi.org/10.1109/TMM.2021.3079695), [code](https://github.com/josiahwsmith10/Radar-Musical-Instrument))
 - Improved Static Hand Gesture Classification on Deep Convolutional Neural Networks using Novel Sterile Training Technique ([arXiv](https://arxiv.org/abs/2305.02039), [DOI](https://doi.org/10.1109/ACCESS.2021.3051454))
 - Near-Field MIMO-ISAR Millimeter-Wave Imaging ([arXiv](https://arxiv.org/abs/2305.02030), [DOI](https://doi.org/10.1109/RadarConf2043947.2020.9266412))
 
