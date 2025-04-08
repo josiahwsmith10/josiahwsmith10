@@ -63,9 +63,6 @@
     - Nyquist Sampling and Sunspots ([code](https://github.com/josiahwsmith10/sampling-and-sunspots))
 - WISLAB-Specific
     - [WISLAB-Helps](https://github.com/josiahwsmith10/WISLAB-Helps)
-- *Code for Papers*
-    - *Efficient 3-D Near-Field MIMO-SAR Imaging for Irregular Scanning Geometries* ([arXiv](https://arxiv.org/abs/2305.02064), [DOI](https://doi.org/10.1109/ACCESS.2022.3145370), [code](https://github.com/josiahwsmith10/Efficient-3-D-Near-Field-MIMO-SAR-Imaging-for-Irregular-Scanning-Geometries))
-    - *An FCNN-Based Super-Resolution mmWave Radar Framework for Contactless Musical Instrument Interface* ([arXiv](https://arxiv.org/abs/2305.01995), [DOI](https://doi.org/10.1109/TMM.2021.3079695), [code](https://github.com/josiahwsmith10/Radar-Musical-Instrument))
  
 ### BibTeX Citations
 ```
