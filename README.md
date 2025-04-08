@@ -21,7 +21,7 @@
 ### Papers
 - Frequency Estimation Using Complex-Valued Shifted Window Transformer ([arXiv](https://arxiv.org/abs/2309.09352), [DOI](https://doi.org/10.1109/LGRS.2024.3411554), [code](https://github.com/josiahwsmith10/spectral-super-resolution-swin))
 - Emerging Approaches for THz Array Imaging: A Tutorial Review and Software Tool (Preprint) ([arXiv](https://arxiv.org/abs/2309.08844), [code](https://github.com/josiahwsmith10/THz-and-Sub-THz-Imaging-Toolbox))
-- Complex-Valued Neural Networks for Data-Driven Signal Processing and Signal Understanding ([arXiv](https://arxiv.org/abs/2309.07948), [code](https://github.com/josiahwsmith10/complextorch))
+- Complex-Valued Neural Networks for Data-Driven Signal Processing and Signal Understanding (Preprint) ([arXiv](https://arxiv.org/abs/2309.07948), [code](https://github.com/josiahwsmith10/complextorch))
 - Deep Learning-Based Multiband Signal Fusion for 3-D SAR Super-Resolution ([arXiv](https://arxiv.org/abs/2305.02017), [DOI](https://doi.org/10.1109/TAES.2023.3270111), [model code](https://github.com/josiahwsmith10/multiband-fusion-all), [scanner code](https://github.com/josiahwsmith10/dual-radar-synchronizer), [GUI code](https://github.com/josiahwsmith10/dual-radar-gui))
 - Efficient CNN-based Super Resolution Algorithms for mmWave Mobile Radar Imaging ([arXiv](https://arxiv.org/abs/2305.02092), [DOI](https://doi.org/10.1109/ICIP46576.2022.9897190))
 - A Vision Transformer Approach for Efficient Near-Field Irregular SAR Super-Resolution ([arXiv](https://arxiv.org/abs/2305.02074), [DOI](https://doi.org/10.1109/WMCS55582.2022.9866326), [code](https://github.com/josiahwsmith10/hybrid-freehand-imaging-ViT))
